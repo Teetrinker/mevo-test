@@ -1,4 +1,10 @@
 {
 	"email": "foo@bar.com",
-	"message": "auf Deutsch 4"
+	"message": "auf Deutsch 4",
+	"collection": [
+		"\n    Hey, this is section 1\n  ",
+		"1b",
+		"Hey this is section 2",
+		"2b\n"
+	]
 }
