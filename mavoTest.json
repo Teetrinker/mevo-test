@@ -17,7 +17,20 @@
 			]
 		},
 		{
-			"description": []
+			"description": [],
+			"layout": "2"
+		},
+		{
+			"layout": "2",
+			"description": [
+				"Let's test autosave.<br>"
+			]
+		},
+		{
+			"layout": "2",
+			"description": [
+				"\n\t\t\tYour text here.\n\t\t"
+			]
 		}
 	],
 	"rating": 2,
